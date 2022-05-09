@@ -1,8 +1,10 @@
-<xml>
-	<p1>"Favorite movie: Joker"</p1>
-	<p2>"Favorite series: Game of Thrones"</p2>
-	<p3>"Favorite food: Pizza"</p3>
-	<p4>"Favorite season: Spring"</p4>
-	<p5>"Country would like to visit: Japan, France"</p5>
 
 
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Favorite_movie>Joker</Favorite_movie>
+  <Favorite_series>Game of Thrones</Favorite_series>
+  <Favorite_food>Pizza</Favorite_food>
+  <Favorite_season>Spring</Favorite_season>
+  <Country_would_like_to_visit>Japan, France</Country_would_like_to_visit>
+</root>

@@ -1,5 +1,7 @@
-<xml>
-	<p1>"Name: Yudina Anastasiya Aleksandrovna"</p1>
-	<p2>"Age: 30"</p2>
-	<p3>"Pets: "Chibis, Jack Russell Terrier"</p3>
-	<p4>"Desired Salary: 850 $"</p4>
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Name>Yudina Anastasiya Aleksandrovna</Name>
+  <Age>30</Age>
+  <Pets>Chibis, Jack Russell Terrier</Pets>
+  <Desired_Salary>850 $</Desired_Salary>
+</root>
